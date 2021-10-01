@@ -9,7 +9,7 @@ Sometimes, you may need to format a number value with commas and decimals in you
 ## The following example shows how it works:
 - **value:** the number which we want to add commas.
 - **decimal:** the number of digits after decimal points. It should be a number like 1,2 and 3 etc.
-- Here you can specify Language. like ‘en-IN’ , ‘ja-JP’,’en-US’ and ‘de-DE’, etc.
+- Here you can specify Language. like ‘en-IN’, ‘ja-JP’, ’en-US’ and ‘de-DE’, etc.
 
 ```
 const NumberFormatter = (value, decimal) => {
